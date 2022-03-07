@@ -1,17 +1,16 @@
-{
-    "tokens": [{
-     "address": "0xce347E069B68C53A9ED5e7DA5952529cAF8ACCd4",
-     "decimals": 18,
-     "name": "JoeToken",
-     "symbol": "JOE",
-     "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x23fc76B53882d8dcaB1900f0D3C1C0c504Ffb8E3/logo.png"
-     },
-     {
-        "address": "0xce347E069B68C53A9ED5e7DA5952529cAF8ACCd4",
+[
+    {
+        "address": "0x2A3C5c3206BDD52bE513b0eEeFD07aE059E45386",
         "decimals": 18,
-        "name": "JoeToken",
-        "symbol": "JOE",
-        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x23fc76B53882d8dcaB1900f0D3C1C0c504Ffb8E3/logo.png"
-        }],
-     "timestamp": "2021-03-03T00:00:00+00:00"
- }
+        "name": "GOTH Token v2",
+        "symbol": "GOTH",
+        "logoURI": "https://raw.githubusercontent.com/GothTokenNetwork/goth-token-lists/goth-top-list/testnet/0x2A3C5c3206BDD52bE513b0eEeFD07aE059E45386/logo.png"
+    },
+    {
+        "address": "0x5e6e168933f96E62d721982123c5a11B0e288440",
+        "decimals": 18,
+        "name": "Wrapped AVAX",
+        "symbol": "WAVAX",
+        "logoURI": "https://raw.githubusercontent.com/GothTokenNetwork/goth-token-lists/goth-top-list/testnet/0x5e6e168933f96E62d721982123c5a11B0e288440/logo.png"
+    }
+]
