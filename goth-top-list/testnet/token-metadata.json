@@ -1,0 +1,16 @@
+[
+    {
+        "Name": "GOTH Token v2",
+        "Symbol": "GOTH",
+        "Decimals": 18,
+        "Address": "0x2A3C5c3206BDD52bE513b0eEeFD07aE059E45386",
+        "LastUpdated": 1646821129
+    },
+    {
+        "Name": "Wrapped AVAX",
+        "Symbol": "WAVAX",
+        "Decimals": 18,
+        "Address": "0x5e6e168933f96E62d721982123c5a11B0e288440",
+        "LastUpdated": 1646821129
+    }
+]
