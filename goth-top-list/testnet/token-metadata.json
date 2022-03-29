@@ -9,6 +9,15 @@
         "LastUpdated": 1646821129
     },
     {
+        "Name": "Arcane Sigils",
+        "Symbol": "SIGIL",
+        "Decimals": 18,
+        "BalanceOfConnected": 0,
+        "LogoURL": "https://github.com/GothTokenNetwork/goth-token-lists/blob/main/goth-top-list/testnet/0x2773c53B90bc7Ae8E27b021EBBAC2b3135c3e7D9/logo.png?raw=true",
+        "Address": "0x2773c53B90bc7Ae8E27b021EBBAC2b3135c3e7D9",
+        "LastUpdated": 1646821129
+    },
+    {
         "Name": "Wrapped AVAX",
         "Symbol": "WAVAX",
         "Decimals": 18,
