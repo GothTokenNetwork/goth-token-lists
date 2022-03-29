@@ -25,5 +25,32 @@
         "LogoURL": "https://github.com/GothTokenNetwork/goth-token-lists/blob/main/goth-top-list/testnet/0x5e6e168933f96E62d721982123c5a11B0e288440/logo.png?raw=true",
         "Address": "0x5e6e168933f96E62d721982123c5a11B0e288440",
         "LastUpdated": 1646821129
+    },
+    {
+        "Name": "Wrapped ETH",
+        "Symbol": "WETH.e",
+        "Decimals": 18,
+        "BalanceOfConnected": 0,
+        "LogoURL": "https://github.com/GothTokenNetwork/goth-token-lists/blob/main/goth-top-list/testnet/0x582C3c1AF3b6B00753F5A3800F17671A6CE95079/logo.png?raw=true",
+        "Address": "0x582C3c1AF3b6B00753F5A3800F17671A6CE95079",
+        "LastUpdated": 1646821129
+    },
+    {
+        "Name": "Stable Coin",
+        "Symbol": "STABLE",
+        "Decimals": 18,
+        "BalanceOfConnected": 0,
+        "LogoURL": "https://github.com/GothTokenNetwork/goth-token-lists/blob/main/goth-top-list/testnet/0x9679149E216Fd39aB04c382499D4196a3566458c/logo.png?raw=true",
+        "Address": "0x9679149E216Fd39aB04c382499D4196a3566458c",
+        "LastUpdated": 1646821129
+    },
+    {
+        "Name": "Clown Finance",
+        "Symbol": "CLF",
+        "Decimals": 18,
+        "BalanceOfConnected": 0,
+        "LogoURL": "https://github.com/GothTokenNetwork/goth-token-lists/blob/main/goth-top-list/testnet/0xFB50E07d9440A6Ef0b4A81843d28fc4ebe3EAff9/logo.png?raw=true",
+        "Address": "0xFB50E07d9440A6Ef0b4A81843d28fc4ebe3EAff9",
+        "LastUpdated": 1646821129
     }
 ]
