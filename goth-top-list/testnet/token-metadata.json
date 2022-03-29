@@ -13,8 +13,8 @@
         "Symbol": "SIGIL",
         "Decimals": 18,
         "BalanceOfConnected": 0,
-        "LogoURL": "https://github.com/GothTokenNetwork/goth-token-lists/blob/main/goth-top-list/testnet/0x2773c53b90bc7ae8e27b021ebbac2b3135c3e7d9/logo.png?raw=true",
-        "Address": "0x2773c53b90bc7ae8e27b021ebbac2b3135c3e7d9",
+        "LogoURL": "https://github.com/GothTokenNetwork/goth-token-lists/blob/main/goth-top-list/testnet/0x2773c53B90bc7Ae8E27b021EBBAC2b3135c3e7D9/logo.png?raw=true",
+        "Address": "0x2773c53B90bc7Ae8E27b021EBBAC2b3135c3e7D9",
         "LastUpdated": 1646821129
     },
     {
@@ -31,8 +31,8 @@
         "Symbol": "WETH.e",
         "Decimals": 18,
         "BalanceOfConnected": 0,
-        "LogoURL": "https://github.com/GothTokenNetwork/goth-token-lists/blob/main/goth-top-list/testnet/0x582C3c1AF3b6B00753F5A3800F17671A6CE95079/logo.png?raw=true",
-        "Address": "0x582C3c1AF3b6B00753F5A3800F17671A6CE95079",
+        "LogoURL": "https://github.com/GothTokenNetwork/goth-token-lists/blob/main/goth-top-list/testnet/0x582c3c1af3b6b00753f5a3800f17671a6ce95079/logo.png?raw=true",
+        "Address": "0x582c3c1af3b6b00753f5a3800f17671a6ce95079",
         "LastUpdated": 1646821129
     },
     {
@@ -40,8 +40,8 @@
         "Symbol": "STABLE",
         "Decimals": 18,
         "BalanceOfConnected": 0,
-        "LogoURL": "https://github.com/GothTokenNetwork/goth-token-lists/blob/main/goth-top-list/testnet/0x9679149E216Fd39aB04c382499D4196a3566458c/logo.png?raw=true",
-        "Address": "0x9679149E216Fd39aB04c382499D4196a3566458c",
+        "LogoURL": "https://github.com/GothTokenNetwork/goth-token-lists/blob/main/goth-top-list/testnet/0x9679149e216fd39ab04c382499d4196a3566458c/logo.png?raw=true",
+        "Address": "0x9679149e216fd39ab04c382499d4196a3566458c",
         "LastUpdated": 1646821129
     },
     {
